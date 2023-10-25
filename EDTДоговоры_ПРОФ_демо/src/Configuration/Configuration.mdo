@@ -858,6 +858,7 @@
   <catalogs>Catalog.ТомаХраненияФайлов</catalogs>
   <catalogs>Catalog.УчетныеЗаписиЭлектроннойПочты</catalogs>
   <catalogs>Catalog.Файлы</catalogs>
+  <catalogs>Catalog.binom_Сотрудники</catalogs>
   <enums>Enum.ВажностьПисем</enums>
   <enums>Enum.ВариантыSMTPАутентификации</enums>
   <enums>Enum.ВариантыОчисткиФайлов</enums>
