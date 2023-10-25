@@ -174,4 +174,33 @@
     <fullTextSearch>Use</fullTextSearch>
     <dataHistory>Use</dataHistory>
   </attributes>
+  <attributes uuid="dfd50556-96ab-4ef6-a9e4-7bc50e82545e">
+    <name>Реквизит7</name>
+    <synonym>
+      <key>ru</key>
+      <value>Реквизит7</value>
+    </synonym>
+    <type>
+      <types>String</types>
+      <stringQualifiers>
+        <length>10</length>
+      </stringQualifiers>
+    </type>
+    <minValue xsi:type="core:UndefinedValue"/>
+    <maxValue xsi:type="core:UndefinedValue"/>
+    <fillValue xsi:type="core:UndefinedValue"/>
+    <fullTextSearch>Use</fullTextSearch>
+    <dataHistory>Use</dataHistory>
+  </attributes>
+  <tabularSections uuid="e9467055-3d32-4613-a7eb-3745a01be970">
+    <producedTypes>
+      <objectType typeId="5e4a11e3-6665-45b6-8a31-111af12f364a" valueTypeId="aab3cac7-0ccc-45d8-a47e-dd4c15eaa68a"/>
+      <rowType typeId="7802810d-dfb9-4ba8-beef-227dda14f84c" valueTypeId="bfa4a93a-223c-4a41-a458-e038ec632067"/>
+    </producedTypes>
+    <name>ТабличнаяЧасть1</name>
+    <synonym>
+      <key>ru</key>
+      <value>Табличная часть1</value>
+    </synonym>
+  </tabularSections>
 </mdclass:Catalog>
