@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Subsystem xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="31eeaa05-6c49-41fe-b840-1edbad4ccac7">
+  <name>НастройкиПрограммы</name>
+  <synonym>
+    <key>ru</key>
+    <value>Настройки программы</value>
+  </synonym>
+  <content>66ef1631-277b-4c22-99d7-1434b4dbbb3f</content>
+  <content>CommonPicture.РазделАдминистрирование</content>
+  <content>Constant.ПараметрыПодключенияКИсточникуДанныхНаПлатформе1С</content>
+  <content>DataProcessor.ЗагрузкаИзБухгалтерииПредприятия</content>
+  <content>CommonModule.ОбменДаннымиБухгалтерияПредприятияВызовСервера</content>
+  <content>InformationRegister.СоответствиеЗагруженныхВидовДокументов</content>
+  <content>DataProcessor.ЗагрузкаКонтрагентовИзТаблиц</content>
+  <parentSubsystem>Subsystem.СтандартныеПодсистемы</parentSubsystem>
+</mdclass:Subsystem>

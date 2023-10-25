@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Constant xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:core="http://g5.1c.ru/v8/dt/mcore" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="5a8313b4-2794-427b-befb-2e5906d29786">
+  <producedTypes>
+    <managerType typeId="49ba4956-dd5c-4ced-82c7-ecc2b07f8935" valueTypeId="09074d19-9572-4732-b490-60089db4c597"/>
+    <valueManagerType typeId="5557781f-f509-4c43-b6a1-21e823aa87e4" valueTypeId="3fca2cb9-d145-4892-87f2-73a14c98817e"/>
+    <valueKeyType typeId="cedd4cc3-e480-57aa-96d7-c45a63de9821" valueTypeId="aa476860-5d40-59dc-aaf0-56818bad2943"/>
+  </producedTypes>
+  <name>ИспользоватьСервисСклоненияMorpher</name>
+  <synonym>
+    <key>ru</key>
+    <value>Использовать сервис склонения morpher.ru</value>
+  </synonym>
+  <type>
+    <types>Boolean</types>
+  </type>
+  <useStandardCommands>true</useStandardCommands>
+  <minValue xsi:type="core:UndefinedValue"/>
+  <maxValue xsi:type="core:UndefinedValue"/>
+  <dataLockControlMode>Managed</dataLockControlMode>
+</mdclass:Constant>

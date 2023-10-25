@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:CommonModule xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="c5c2bd57-82d8-4ff3-9845-a437518bc842">
+  <name>СклонениеПредставленийОбъектовВызовСервера</name>
+  <synonym>
+    <key>ru</key>
+    <value>Склонение представлений объектов вызов сервера</value>
+  </synonym>
+  <server>true</server>
+  <serverCall>true</serverCall>
+</mdclass:CommonModule>

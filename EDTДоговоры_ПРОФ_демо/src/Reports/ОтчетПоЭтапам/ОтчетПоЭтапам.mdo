@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Report xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="b822598e-2c88-41d7-8f38-358247f4d2d4">
+  <producedTypes>
+    <objectType typeId="30cde3e5-8c4c-4e93-b051-cc451949b497" valueTypeId="411ca827-7dce-447d-b109-aa0610404187"/>
+    <managerType typeId="2301e13b-2fbe-4913-97c3-3fe754b7f8a1" valueTypeId="c95db549-ff6a-4f5c-8993-af0cde16ba49"/>
+  </producedTypes>
+  <name>ОтчетПоЭтапам</name>
+  <synonym>
+    <key>ru</key>
+    <value>Отчет по этапам</value>
+  </synonym>
+  <useStandardCommands>true</useStandardCommands>
+  <mainDataCompositionSchema>Report.ОтчетПоЭтапам.Template.ОсновнаяСхемаКомпоновкиДанных</mainDataCompositionSchema>
+  <variantsStorage>SettingsStorage.ХранилищеВариантовОтчетов</variantsStorage>
+  <templates uuid="20005171-f87f-4bc9-8ded-14b3eae3f8f8">
+    <name>ОсновнаяСхемаКомпоновкиДанных</name>
+    <synonym>
+      <key>ru</key>
+      <value>Основная схема компоновки данных</value>
+    </synonym>
+    <templateType>DataCompositionSchema</templateType>
+  </templates>
+  <templates uuid="79603def-b38d-4385-a304-034350fd4853">
+    <name>ОбразецОтчетаПросроченныеЭтапы</name>
+    <synonym>
+      <key>ru</key>
+      <value>Образец отчета просроченные этапы</value>
+    </synonym>
+    <templateType>BinaryData</templateType>
+  </templates>
+</mdclass:Report>

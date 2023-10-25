@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Report xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="ecbace51-3640-437b-ab24-7dfd978fee11">
+  <producedTypes>
+    <objectType typeId="227b2b2a-7c20-4e3c-aeae-ef25b2b7f7a9" valueTypeId="0fcb1ecf-4853-4641-9235-b5edf87d9379"/>
+    <managerType typeId="210bab04-7cc0-44c1-b73b-4278e161464a" valueTypeId="84e25d67-8854-4e12-b0e7-42fa359c20ad"/>
+  </producedTypes>
+  <name>ОтчетПоСрокам</name>
+  <synonym>
+    <key>ru</key>
+    <value>Контроль сроков</value>
+  </synonym>
+  <useStandardCommands>true</useStandardCommands>
+  <mainDataCompositionSchema>Report.ОтчетПоСрокам.Template.ОсновнаяСхемаКомпоновкиДанных</mainDataCompositionSchema>
+  <variantsStorage>SettingsStorage.ХранилищеВариантовОтчетов</variantsStorage>
+  <templates uuid="c9ff5fbb-e4ad-4163-a6bd-911313acfba8">
+    <name>ОсновнаяСхемаКомпоновкиДанных</name>
+    <synonym>
+      <key>ru</key>
+      <value>Основная схема компоновки данных</value>
+    </synonym>
+    <templateType>DataCompositionSchema</templateType>
+  </templates>
+  <templates uuid="df6c936e-1f64-4d0a-993d-2ace807849fb">
+    <name>ОбразецОтчетаОтчетПоСрокам</name>
+    <synonym>
+      <key>ru</key>
+      <value>Образец отчета отчет по срокам</value>
+    </synonym>
+    <templateType>BinaryData</templateType>
+  </templates>
+</mdclass:Report>

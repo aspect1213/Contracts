@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Report xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="07a65e7c-37d3-4e43-b1a0-b117235e26e4">
+  <producedTypes>
+    <objectType typeId="7290bf8f-8933-4166-9db4-ef2b2d245eb6" valueTypeId="6a9c902e-ab74-4625-b69f-87663b06992c"/>
+    <managerType typeId="22e6fef6-4fe5-4772-b802-91526ce395c0" valueTypeId="741e384c-56d6-43c6-b4d8-5a9de199f449"/>
+  </producedTypes>
+  <name>Документы</name>
+  <synonym>
+    <key>ru</key>
+    <value>Документы</value>
+  </synonym>
+  <useStandardCommands>true</useStandardCommands>
+  <mainDataCompositionSchema>Report.Документы.Template.ОсновнаяСхемаКомпоновкиДанных</mainDataCompositionSchema>
+  <variantsStorage>SettingsStorage.ХранилищеВариантовОтчетов</variantsStorage>
+  <templates uuid="6688f4ff-2f1e-4cde-85e9-e5cde7d72495">
+    <name>ОсновнаяСхемаКомпоновкиДанных</name>
+    <synonym>
+      <key>ru</key>
+      <value>Основная схема компоновки данных</value>
+    </synonym>
+    <templateType>DataCompositionSchema</templateType>
+  </templates>
+  <templates uuid="cc02a564-983f-47cb-ba87-1fa2d9df9d8f">
+    <name>ОбразецОтчетаСписокДокументов</name>
+    <synonym>
+      <key>ru</key>
+      <value>Образец отчета список документов</value>
+    </synonym>
+    <templateType>BinaryData</templateType>
+  </templates>
+</mdclass:Report>

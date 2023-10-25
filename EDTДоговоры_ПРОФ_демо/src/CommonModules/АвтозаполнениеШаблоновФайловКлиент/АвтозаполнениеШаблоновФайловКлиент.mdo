@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:CommonModule xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="68818349-2b7b-4eb2-aef0-e906d7c3cc9d">
+  <name>АвтозаполнениеШаблоновФайловКлиент</name>
+  <synonym>
+    <key>ru</key>
+    <value>Автозаполнение шаблонов файлов клиент</value>
+  </synonym>
+  <clientManagedApplication>true</clientManagedApplication>
+  <clientOrdinaryApplication>true</clientOrdinaryApplication>
+</mdclass:CommonModule>

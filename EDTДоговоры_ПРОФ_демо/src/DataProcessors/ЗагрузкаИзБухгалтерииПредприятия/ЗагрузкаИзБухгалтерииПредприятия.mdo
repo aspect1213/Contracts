@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:DataProcessor xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="860e4b42-f74b-4cb0-87b1-4f1f0d9ec39f">
+  <producedTypes>
+    <objectType typeId="0bd7ac14-d846-4ebf-889c-8af8137c7308" valueTypeId="88a18bb1-a88d-48b5-9d39-f43ef6817a46"/>
+    <managerType typeId="606d5ce5-a489-4ea7-bab0-82178ba2edfa" valueTypeId="9989c897-0bd0-4760-89b5-f37c76c4de38"/>
+  </producedTypes>
+  <name>ЗагрузкаИзБухгалтерииПредприятия</name>
+  <synonym>
+    <key>ru</key>
+    <value>Загрузка из 1С:Бухгалтерии</value>
+  </synonym>
+  <defaultForm>DataProcessor.ЗагрузкаИзБухгалтерииПредприятия.Form.Форма</defaultForm>
+  <forms uuid="6649da96-e00f-4321-8f66-5982d8675511">
+    <name>Форма</name>
+    <synonym>
+      <key>ru</key>
+      <value>Форма</value>
+    </synonym>
+    <usePurposes>PersonalComputer</usePurposes>
+    <usePurposes>MobileDevice</usePurposes>
+  </forms>
+  <commands uuid="bb7ccfcf-4b67-491b-8d5c-6753dff6001a">
+    <name>ЗагрузитьДанные</name>
+    <synonym>
+      <key>ru</key>
+      <value>Загрузка из 1С:Бухгалтерии</value>
+    </synonym>
+    <group>ActionsPanelTools</group>
+    <commandParameterType/>
+    <representation>Auto</representation>
+  </commands>
+  <commands uuid="9194b724-e0c9-4651-8435-da1b21baf63a">
+    <name>ЗагрузитьКонтрагентов</name>
+    <synonym>
+      <key>ru</key>
+      <value>Загрузка контрагентов из 1С:Бухгалтерии</value>
+    </synonym>
+    <group>ActionsPanelTools</group>
+    <commandParameterType/>
+    <representation>Auto</representation>
+  </commands>
+  <commands uuid="631e1652-799e-4a90-a3df-ef9ca2a13195">
+    <name>ЗагрузитьНоменклатуру</name>
+    <synonym>
+      <key>ru</key>
+      <value>Загрузка товаров и услуг из 1С:Бухгалтерии</value>
+    </synonym>
+    <group>ActionsPanelTools</group>
+    <commandParameterType/>
+    <representation>Auto</representation>
+  </commands>
+</mdclass:DataProcessor>

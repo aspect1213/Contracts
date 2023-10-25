@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:DataProcessor xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="48f53520-3cf4-4e74-9c2d-0b0021d72a35">
+  <producedTypes>
+    <objectType typeId="a71ce64c-ef49-480a-ba62-ad459fc2e222" valueTypeId="c1f7ac69-e558-47ba-8ac3-337ad56a34e5"/>
+    <managerType typeId="d20ce8d7-7ee0-41a2-afff-4439c64fde95" valueTypeId="fe4fdf36-44cc-4194-82a5-9a2100b9cd7e"/>
+  </producedTypes>
+  <name>ЗагрузкаКонтрагентовИзТаблиц</name>
+  <synonym>
+    <key>ru</key>
+    <value>Загрузка контрагентов из таблиц</value>
+  </synonym>
+  <useStandardCommands>true</useStandardCommands>
+  <defaultForm>DataProcessor.ЗагрузкаКонтрагентовИзТаблиц.Form.Форма</defaultForm>
+  <explanation>
+    <key>ru</key>
+    <value>Загрузка контрагентов из таблиц через буфер обмена</value>
+  </explanation>
+  <forms uuid="647f709d-3fc6-42ce-9e2e-bd7121719eda">
+    <name>Форма</name>
+    <synonym>
+      <key>ru</key>
+      <value>Форма</value>
+    </synonym>
+    <usePurposes>PersonalComputer</usePurposes>
+    <usePurposes>MobileDevice</usePurposes>
+  </forms>
+  <templates uuid="5dd9be9b-2997-40d3-adda-ecb4a7550665">
+    <name>Справочник_Контрагенты</name>
+    <synonym>
+      <key>ru</key>
+      <value>Справочник &quot;Контрагенты&quot;</value>
+    </synonym>
+  </templates>
+  <commands uuid="0a8cca3f-d3f0-4c41-8213-5535ce01961f">
+    <name>ЗагрузитьДанные</name>
+    <synonym>
+      <key>ru</key>
+      <value>Загрузка контрагентов из таблиц</value>
+    </synonym>
+    <group>ActionsPanelTools</group>
+    <commandParameterType/>
+    <representation>Auto</representation>
+  </commands>
+</mdclass:DataProcessor>
