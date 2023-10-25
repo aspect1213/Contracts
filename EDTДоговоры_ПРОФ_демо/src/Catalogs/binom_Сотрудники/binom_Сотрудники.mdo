@@ -30,4 +30,15 @@
   <defaultPresentation>AsDescription</defaultPresentation>
   <editType>InDialog</editType>
   <choiceMode>BothWays</choiceMode>
+  <tabularSections uuid="92f63d9f-ee7d-4b21-8550-25931dd31cc8">
+    <producedTypes>
+      <objectType typeId="449a991d-1764-4b25-af15-9409c2c28232" valueTypeId="a6470fe3-c5af-41ea-b97d-970c5841456a"/>
+      <rowType typeId="574e9d40-1638-46a5-a3ab-72d2d613f48e" valueTypeId="630f94a4-a988-4377-b9ad-6a210c0ed2e7"/>
+    </producedTypes>
+    <name>ТабличнаяЧасть1</name>
+    <synonym>
+      <key>ru</key>
+      <value>Табличная часть1</value>
+    </synonym>
+  </tabularSections>
 </mdclass:Catalog>
