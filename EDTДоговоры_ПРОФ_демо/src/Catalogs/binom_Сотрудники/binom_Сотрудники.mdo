@@ -192,4 +192,15 @@
     <fullTextSearch>Use</fullTextSearch>
     <dataHistory>Use</dataHistory>
   </attributes>
+  <tabularSections uuid="e9467055-3d32-4613-a7eb-3745a01be970">
+    <producedTypes>
+      <objectType typeId="5e4a11e3-6665-45b6-8a31-111af12f364a" valueTypeId="aab3cac7-0ccc-45d8-a47e-dd4c15eaa68a"/>
+      <rowType typeId="7802810d-dfb9-4ba8-beef-227dda14f84c" valueTypeId="bfa4a93a-223c-4a41-a458-e038ec632067"/>
+    </producedTypes>
+    <name>ТабличнаяЧасть1</name>
+    <synonym>
+      <key>ru</key>
+      <value>Табличная часть1</value>
+    </synonym>
+  </tabularSections>
 </mdclass:Catalog>
