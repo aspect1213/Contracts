@@ -202,6 +202,23 @@
       <key>ru</key>
       <value>Табличная часть1</value>
     </synonym>
+    <attributes uuid="e02e0525-0491-44b5-826a-1d25b78e9620">
+      <name>Реквизит2</name>
+      <synonym>
+        <key>ru</key>
+        <value>Реквизит2</value>
+      </synonym>
+      <type>
+        <types>String</types>
+        <stringQualifiers>
+          <length>10</length>
+        </stringQualifiers>
+      </type>
+      <minValue xsi:type="core:UndefinedValue"/>
+      <maxValue xsi:type="core:UndefinedValue"/>
+      <dataHistory>Use</dataHistory>
+      <fullTextSearch>Use</fullTextSearch>
+    </attributes>
     <attributes uuid="b864a4cf-d231-42ce-9f37-b8f08b1134d7">
       <name>Реквизит1</name>
       <synonym>
