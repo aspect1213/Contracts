@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Catalog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:core="http://g5.1c.ru/v8/dt/mcore" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="4a3a2919-6f45-4e11-8012-0bce44d36924">
+  <producedTypes>
+    <objectType typeId="16b1c576-e944-47ef-9639-aaa3c68da3e5" valueTypeId="08f80651-37eb-466e-8847-e8a6414bd5c2"/>
+    <refType typeId="df7f690a-ab84-4c75-a654-17c674a987c3" valueTypeId="0bcd590f-dba2-4e65-ace2-6b8ed35c75dd"/>
+    <selectionType typeId="9ef6f3e4-b623-46ae-9d5f-d53fb6ebe8f3" valueTypeId="4a096ca1-5447-4eac-b182-835be0aebdca"/>
+    <listType typeId="89df3621-e1ce-4644-a928-819f9b437bbb" valueTypeId="ee6f3b36-acf1-49b4-9a71-f58fccf487ba"/>
+    <managerType typeId="36bdf7b5-03a6-4795-8e24-49d293d86d49" valueTypeId="d114a9c5-ca68-428d-bbbe-291a1bcda2fa"/>
+  </producedTypes>
+  <name>binom_Сотрудники</name>
+  <synonym>
+    <key>ru</key>
+    <value>Сотрудники (binom)</value>
+  </synonym>
+  <useStandardCommands>true</useStandardCommands>
+  <inputByString>Catalog.binom_Сотрудники.StandardAttribute.Code</inputByString>
+  <inputByString>Catalog.binom_Сотрудники.StandardAttribute.Description</inputByString>
+  <fullTextSearchOnInputByString>DontUse</fullTextSearchOnInputByString>
+  <createOnInput>Use</createOnInput>
+  <dataLockControlMode>Managed</dataLockControlMode>
+  <fullTextSearch>Use</fullTextSearch>
+  <levelCount>2</levelCount>
+  <foldersOnTop>true</foldersOnTop>
+  <codeLength>9</codeLength>
+  <descriptionLength>50</descriptionLength>
+  <codeType>String</codeType>
+  <codeAllowedLength>Variable</codeAllowedLength>
+  <checkUnique>true</checkUnique>
+  <autonumbering>true</autonumbering>
+  <defaultPresentation>AsDescription</defaultPresentation>
+  <editType>InDialog</editType>
+  <choiceMode>BothWays</choiceMode>
+  <attributes uuid="7d4c4eb5-03ed-433f-95a9-fb01923d5f1a">
+    <name>РеквизитПроекта087</name>
+    <synonym>
+      <key>ru</key>
+      <value>Реквизит проекта087</value>
+    </synonym>
+    <type>
+      <types>String</types>
+      <stringQualifiers>
+        <length>10</length>
+      </stringQualifiers>
+    </type>
+    <minValue xsi:type="core:UndefinedValue"/>
+    <maxValue xsi:type="core:UndefinedValue"/>
+    <fillValue xsi:type="core:UndefinedValue"/>
+    <fullTextSearch>Use</fullTextSearch>
+    <dataHistory>Use</dataHistory>
+  </attributes>
+  <attributes uuid="bb52bcfe-ee8d-4d95-9a56-0f62451c34c2">
+    <name>РеквизитПроекта087_1</name>
+    <synonym>
+      <key>ru</key>
+      <value>Реквизит проекта087 1</value>
+    </synonym>
+    <type>
+      <types>String</types>
+      <stringQualifiers>
+        <length>10</length>
+      </stringQualifiers>
+    </type>
+    <minValue xsi:type="core:UndefinedValue"/>
+    <maxValue xsi:type="core:UndefinedValue"/>
+    <fillValue xsi:type="core:UndefinedValue"/>
+    <fullTextSearch>Use</fullTextSearch>
+    <dataHistory>Use</dataHistory>
+  </attributes>
+  <attributes uuid="9f13bd82-90ff-43f3-8b44-226983bb435d">
+    <name>РеквизитПроекта087_3</name>
+    <synonym>
+      <key>ru</key>
+      <value>Реквизит проекта087 3</value>
+    </synonym>
+    <type>
+      <types>String</types>
+      <stringQualifiers>
+        <length>10</length>
+      </stringQualifiers>
+    </type>
+    <minValue xsi:type="core:UndefinedValue"/>
+    <maxValue xsi:type="core:UndefinedValue"/>
+    <fillValue xsi:type="core:UndefinedValue"/>
+    <fullTextSearch>Use</fullTextSearch>
+    <dataHistory>Use</dataHistory>
+  </attributes>
+  <attributes uuid="952ddfd0-8050-4bc4-b9f3-474db2f2ed3f">
+    <name>Реквизит4</name>
+    <synonym>
+      <key>ru</key>
+      <value>Реквизит4</value>
+    </synonym>
+    <type>
+      <types>String</types>
+      <stringQualifiers>
+        <length>10</length>
+      </stringQualifiers>
+    </type>
+    <minValue xsi:type="core:UndefinedValue"/>
+    <maxValue xsi:type="core:UndefinedValue"/>
+    <fillValue xsi:type="core:UndefinedValue"/>
+    <fullTextSearch>Use</fullTextSearch>
+    <dataHistory>Use</dataHistory>
+  </attributes>
+</mdclass:Catalog>
